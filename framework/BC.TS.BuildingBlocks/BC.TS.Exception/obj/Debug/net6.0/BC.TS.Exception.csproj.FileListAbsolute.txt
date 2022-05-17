@@ -1,0 +1,12 @@
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\bin\Debug\net6.0\BC.TS.Exception.deps.json
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\bin\Debug\net6.0\BC.TS.Exception.dll
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\bin\Debug\net6.0\ref\BC.TS.Exception.dll
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\bin\Debug\net6.0\BC.TS.Exception.pdb
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\obj\Debug\net6.0\BC.TS.Exception.csproj.AssemblyReference.cache
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\obj\Debug\net6.0\BC.TS.Exception.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\obj\Debug\net6.0\BC.TS.Exception.AssemblyInfoInputs.cache
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\obj\Debug\net6.0\BC.TS.Exception.AssemblyInfo.cs
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\obj\Debug\net6.0\BC.TS.Exception.csproj.CoreCompileInputs.cache
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\obj\Debug\net6.0\BC.TS.Exception.dll
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\obj\Debug\net6.0\ref\BC.TS.Exception.dll
+E:\Work\BCChina\BC.TS\framework\BC.TS.BuildingBlocks\BC.TS.Exception\obj\Debug\net6.0\BC.TS.Exception.pdb

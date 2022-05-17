@@ -1,0 +1,15 @@
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\bin\Debug\net6.0\BC.TS.Application.deps.json
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\bin\Debug\net6.0\BC.TS.Application.dll
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\bin\Debug\net6.0\ref\BC.TS.Application.dll
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\bin\Debug\net6.0\BC.TS.Application.pdb
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\bin\Debug\net6.0\BC.TS.Domain.dll
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\bin\Debug\net6.0\BC.TS.Domain.pdb
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\obj\Debug\net6.0\BC.TS.Application.csproj.AssemblyReference.cache
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\obj\Debug\net6.0\BC.TS.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\obj\Debug\net6.0\BC.TS.Application.AssemblyInfoInputs.cache
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\obj\Debug\net6.0\BC.TS.Application.AssemblyInfo.cs
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\obj\Debug\net6.0\BC.TS.Application.csproj.CoreCompileInputs.cache
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\obj\Debug\net6.0\BC.TS.Application.csproj.CopyComplete
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\obj\Debug\net6.0\BC.TS.Application.dll
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\obj\Debug\net6.0\ref\BC.TS.Application.dll
+E:\Work\BCChina\BC.TS\application\BC.TS.Application\obj\Debug\net6.0\BC.TS.Application.pdb

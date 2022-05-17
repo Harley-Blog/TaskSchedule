@@ -1,0 +1,15 @@
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\bin\Debug\net6.0\BC.TS.Repository.deps.json
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\bin\Debug\net6.0\BC.TS.Repository.dll
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\bin\Debug\net6.0\ref\BC.TS.Repository.dll
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\bin\Debug\net6.0\BC.TS.Repository.pdb
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\bin\Debug\net6.0\BC.TS.Domain.dll
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\bin\Debug\net6.0\BC.TS.Domain.pdb
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\obj\Debug\net6.0\BC.TS.Repository.csproj.AssemblyReference.cache
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\obj\Debug\net6.0\BC.TS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\obj\Debug\net6.0\BC.TS.Repository.AssemblyInfoInputs.cache
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\obj\Debug\net6.0\BC.TS.Repository.AssemblyInfo.cs
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\obj\Debug\net6.0\BC.TS.Repository.csproj.CoreCompileInputs.cache
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\obj\Debug\net6.0\BC.TS.Repository.csproj.CopyComplete
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\obj\Debug\net6.0\BC.TS.Repository.dll
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\obj\Debug\net6.0\ref\BC.TS.Repository.dll
+E:\Work\BCChina\BC.TS\infrastruct\BC.TS.Repository\obj\Debug\net6.0\BC.TS.Repository.pdb

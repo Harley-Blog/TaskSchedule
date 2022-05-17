@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BC.TS.Api</name>
+    </assembly>
+    <members>
+        <member name="T:BC.TS.Api.Controllers.DispatcherController">
+            <summary>
+            Dispatcher api
+            </summary>
+        </member>
+        <member name="M:BC.TS.Api.Controllers.DispatcherController.#ctor(BC.TS.Application.Service.Facade.IDispatcherApplication)">
+            <summary>
+            ctor
+            </summary>
+            <param name="dispatcherApplication"></param>
+        </member>
+        <member name="M:BC.TS.Api.Controllers.DispatcherController.GenerateCandidate(System.Int32)">
+            <summary>
+            Generate examiner
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BC.TS.Api.Controllers.DispatcherController.GenerateExaminer(System.Int32)">
+            <summary>
+            Generate candidate
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BC.TS.Api.Controllers.DispatcherController.Appraise">
+            <summary>
+            Appraise
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BC.TS.Api.Controllers.DispatcherController.Reset">
+            <summary>
+            Reset data
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:BC.TS.Api.Controllers.HealthController">
+            <summary>
+            Health check
+            </summary>
+        </member>
+        <member name="T:BC.TS.Api.Filters.AddRequiredHeaderParameterFilter">
+            <summary>
+            Swagger custome filter
+            </summary>
+        </member>
+        <member name="T:BC.TS.Api.Filters.AppCodeAuthorizeFilter">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

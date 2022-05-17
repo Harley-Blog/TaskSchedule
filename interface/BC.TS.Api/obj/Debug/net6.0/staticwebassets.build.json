@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SFRXBgwWagwKWyW98ZnlDoSzUWdKFdPK6nc11AirNFw=",
+  "Source": "BC.TS.Api",
+  "BasePath": "_content/BC.TS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

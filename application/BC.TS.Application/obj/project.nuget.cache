@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bOi0dFH+dJKcDw9NacFLch+IuIL+EchOwH8b7ER2VuDViNMhLUJ6iEKsiPVy/J3ZnU71G8r4G9DA3jbeRGhOkw==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\BCChina\\BC.TS\\application\\BC.TS.Application\\BC.TS.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

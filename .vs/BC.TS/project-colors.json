@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99d5435e-b8ae-4e80-9b10-acda2366c34a": {
+      "ProjectGuid": "99d5435e-b8ae-4e80-9b10-acda2366c34a",
+      "DisplayName": "BC.TS.Application",
+      "ColorIndex": 0
+    },
+    "9425ee93-2de5-43e2-a6d0-1ccba0cc0529": {
+      "ProjectGuid": "9425ee93-2de5-43e2-a6d0-1ccba0cc0529",
+      "DisplayName": "BC.TS.Domain",
+      "ColorIndex": 1
+    },
+    "ed14c4ac-4fae-48a8-9376-ae6d4228c409": {
+      "ProjectGuid": "ed14c4ac-4fae-48a8-9376-ae6d4228c409",
+      "DisplayName": "BC.TS.Repository",
+      "ColorIndex": 2
+    },
+    "2d6f89d9-302c-4b91-beb4-527c89107633": {
+      "ProjectGuid": "2d6f89d9-302c-4b91-beb4-527c89107633",
+      "DisplayName": "BC.TS.Api",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
